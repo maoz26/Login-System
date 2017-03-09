@@ -1,0 +1,5 @@
+Tee	Rex	101010130	trex@walla.co.il	DinoSc	bulbul	hi	bye	30	0	0	0
+Much	Ado	111311111	treat@gmail.com	PSc	111311111	jesus	christ	10	0	0	0
+Nir	Jackson	123456789	bla@course.com	PSc	bonzo	cat?	tanya	10	0	0	1
+Ida	Platypus	888888888	ida@gmail.com	BSc	abcd	hi	ho	20	0	0	0
+Maoz	Tamir	987654321	jj.u@gmail.com	MSc	1234	dog?	jet	10	0	0	1

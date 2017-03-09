@@ -1,0 +1,11 @@
+Bo      Unicorn    	990088077    bo.u@gmail.com 	MSc
+Jack   	Dodo       	131220455    dodo@gmail.com 	BSc
+Joe    	Squirrel   	123456790    joe@gmail.com 	BSc
+Philly 	Lobster    	993088077    philly@gmail.com 	BSc
+Slip   	Possum     	123654321    slip@gmail.com 	BSc
+Solo   	Hare       	333333333    solo@gmail.com 	PhD
+Jane   	Rabbit     	938765431    jane@gmail.com 	MSc
+Ida    	Platypus   	888888888    ida@gmail.com 	BSc
+Mimsy  	Borogoves  	112342341    mimsy@gmail.com 	MSc
+Much	Ado       	111311111    treat@gmail.com 	PSc
+Tee    	Rex 	  	101010130    trex@walla.co.il 	DinoSc
